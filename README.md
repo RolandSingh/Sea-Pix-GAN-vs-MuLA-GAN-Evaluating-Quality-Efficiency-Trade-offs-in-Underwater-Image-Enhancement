@@ -1,16 +1,18 @@
 # Underwater GAN Analysis
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18134086.svg)](https://doi.org/10.5281/zenodo.18134086)
 
-**Comparative Analysis of GAN Architectures for Enhanced Underwater Image Quality and Efficiency**
+**Benchmarking GAN Architectures for Underwater Imaging: The Trade-off Between Model Compactness and Real-Time Latency**
 
 > [!IMPORTANT]
-> **Manuscript Association & Citation:** This repository provides the official implementation and reproducibility artifacts for the manuscript: 
-> **“Comparative Analysis of GAN Architectures for Enhanced Underwater Image Quality and Efficiency”** > *Currently under review at **The Visual Computer (Springer Nature)***. 
-> 
-> If you find this research or code useful, we kindly urge you to cite the associated manuscript as detailed in the [Manuscript & Citation](#-manuscript--citation) section below.
+> **Paper Association & Citation:** This repository contains the official implementation and reproducibility artifacts for the accepted conference paper:
+>
+> **"Benchmarking GAN Architectures for Underwater Imaging: The Trade-off Between Model Compactness and Real-Time Latency"**
+>
+> *Accepted for Presentation at the **IEEE Guwahati Subsection Conference (GCON 2026)**, Indian Institute of Technology Guwahati (IIT Guwahati), India.*
+>
+> If you find this research or code useful, please cite the associated paper as described in the [Paper & Citation](#-paper--citation) section below.
 
 ---
-
 ## Overview
 
 The goal of this work is to conduct a **systematic and reproducible comparison** of two representative GAN-based underwater image enhancement models:
