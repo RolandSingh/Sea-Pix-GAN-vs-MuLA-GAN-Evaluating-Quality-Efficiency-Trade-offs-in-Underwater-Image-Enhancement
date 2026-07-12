@@ -164,24 +164,28 @@ See the `LICENSE` file for details.
 
 ---
 
-## Manuscript & Citation
+## Paper & Citation
 
-This codebase is directly associated with:
+This repository is directly associated with the following conference paper:
 
-> Singh, R. *et al.* (2025). Comparative Analysis of GAN Architectures for Enhanced Underwater Image Quality and Efficiency. *Submitted to The Visual Computer*.
+> **Das, D., Singh, R., Ghosal, P., and Pradhan, A.**  
+> **Benchmarking GAN Architectures for Underwater Imaging: The Trade-off Between Model Compactness and Real-Time Latency.**  
+> *Accepted for Presentation at the IEEE Guwahati Subsection Conference (GCON 2026), Indian Institute of Technology Guwahati (IIT Guwahati), India.*
 
 If you use this repository, please cite:
+
 ```bibtex
-@article{pradhan2026underwater,
-  title={Comparative Analysis of {GAN} Architectures for Enhanced Underwater Image Quality and Efficiency},
-  author={Pradhan, Ashis and Das, Dishant and Singh, Roland},
-  journal={The Visual Computer},
-  year={2026},
-  note={Under Review. Code and artifacts available at: https://doi.org/10.5281/zenodo.18134086},
-  url={https://github.com/dishantroland2025/Underwater-GAN-Analysis},
+@inproceedings{das2026benchmarking,
+  author    = {Dishant Das and Roland Singh and Palash Ghosal and Ashis Pradhan},
+  title     = {Benchmarking GAN Architectures for Underwater Imaging: The Trade-off Between Model Compactness and Real-Time Latency},
+  booktitle = {Proceedings of the IEEE Guwahati Subsection Conference (GCON)},
+  year      = {2026},
+  address   = {Indian Institute of Technology Guwahati, India},
+  note       = {Accepted for Presentation},
+  doi        = {10.5281/zenodo.18134086},
+  url        = {https://github.com/dishantroland2025/Underwater-GAN-Analysis}
 }
 ```
----
 
 ## Contact
 
